@@ -1,5 +1,26 @@
-1 - Reformater les dossiers.
+1 - Reformater les dossiers.  -----FAIT
 2 - préparer la base de données avec de nouvelles variables
+    . gérer les valeurs manquantes
+    . vérifier et gérer les catégories des variables.
+    . gérer les variables date
+    . définir une nouvelle variable parents ?
+    . définir une nouvelle variable 
+    . Redéfinir les valeurs de Marital_Status 
+    . Redéfinir les valeurs d'Education
+    . créer une variable age.
+    . definir une variable nombre de personne dans le ménage
+    . definir une variable ancienneté
+    . definir une variable nombre d'enfants ?
+    . enlever les variables redondantes
+  
+    
 3 - Enrégistrer cette base pour une utilisation ultérieure.
+    . Exporter les données finales
+
 4 - faire une analyse des variables.
+    . Analyse univariée et bivariée, graphes, tableaux
+    . 
+
 5 - Faire les modélisations.
+    . PCA
+    . Kmeans, CAH

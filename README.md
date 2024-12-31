@@ -1,7 +1,8 @@
-<div style="font-size: 36px; font-weight: bold; color: blue; border: 2px solid #000; padding: 15px; background-color: #fff; text-align: center;">
-Segmentation de la Clientèle
-</div>
 
+---
+title: "Segmentation de la Clientèle"
+
+---
 ![img](img.png)
 
 # Introduction

@@ -1,11 +1,7 @@
 
----
-title: "Segmentation de la Clientèle"
-
----
 ![img](img.png)
 
-# Introduction
+# Segmentation de la Clientèle
 
 L'analyse de la personnalité des clients vise à mieux comprendre les divers profils et comportements des consommateurs afin d’adapter les produits et les stratégies marketing de l'entreprise. En segmentant les clients en fonction de leurs besoins, préférences et habitudes d'achat, une entreprise peut cibler plus efficacement ses efforts et personnaliser ses offres.
 
